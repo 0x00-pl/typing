@@ -1,0 +1,13 @@
+
+.word {
+    margin: 0 0.2rem;
+}
+.word_unknown {
+    color: darkgray;
+}
+.word_good {
+    color: darkgreen;
+}
+.word_bad {
+    color: darkred;
+}
