@@ -1,7 +1,7 @@
 
 window.config = {
-    //api_server: '//nodejs-mongo-persistent-test-webapi.193b.starter-ca-central-1.openshiftapps.com'
-    api_server: 'http://localhost:8080'
+    api_server: '//nodejs-mongo-persistent-test-webapi.193b.starter-ca-central-1.openshiftapps.com'
+    //api_server: 'http://localhost:8080'
 }
 
 // oauth
